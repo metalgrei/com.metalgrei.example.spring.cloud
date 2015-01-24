@@ -7,6 +7,7 @@ public class App {
 		System.out.print("ESTO ES UNA PRUEBA DE GIT");
 		System.out.print("PARECE QUE SE COMO FUNCIONA");
 		System.out.print("LO HE TOCADO YO");
+		System.out.print("PRUEBA JAIME 2");
 		System.out.print("TENGO QUE LEER FILOSOFIA GIT");
 	}
 
